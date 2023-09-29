@@ -35,6 +35,78 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-29T10:25:43.228Z",
+      "notes": "",
+      "position": {
+        "lat": "40.005021246593685",
+        "lng": "0.005870248432788828"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-29T10:35:28.074Z",
+      "notes": "",
+      "position": {
+        "lat": "39.99135149657578",
+        "lng": "0.0015900764908360898"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Benicassim",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-29T10:35:45.958Z",
+      "notes": "",
+      "position": {
+        "lat": "40.059946745619435",
+        "lng": "0.010185265319191394"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Benicassim",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-29T10:35:45.958Z",
+      "notes": "",
+      "position": {
+        "lat": "40.059946745619435",
+        "lng": "0.010185265319191394"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Benicassim",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-29T10:35:45.958Z",
+      "notes": "",
+      "position": {
+        "lat": "40.059946745619435",
+        "lng": "0.010185265319191394"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Penarroya de Tastavins",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-29T10:39:38.510Z",
+      "notes": "eeeee",
+      "position": {
+        "lat": "40.75591028833092",
+        "lng": "0.03844689960772918"
+      },
+      "id": 98443203
     }
   ]
 }
